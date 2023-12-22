@@ -1,7 +1,7 @@
 @startuml
 
 skinparam {
-backgroundColor transparent
+backgroundColor gray
 linetype ortho
 roundcorner 20
 }
